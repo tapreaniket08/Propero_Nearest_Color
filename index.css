@@ -1,0 +1,13 @@
+.box{
+    background-color: white;
+    color: black;
+    margin: auto;
+    width: 50%;
+    border: 2px solid black;
+    box-shadow: 5px 10px 18px #888888;
+
+} 
+.output{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
